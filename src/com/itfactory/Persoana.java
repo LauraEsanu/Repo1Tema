@@ -27,4 +27,11 @@ public class Persoana {
     public void setSalariuNet(double salariuNet){
         this.salariuNet = salariuNet;
     }
+    public static void doSomething(){
+        System.out.println("Ceva");
+
+    }
+
+
+
 }
